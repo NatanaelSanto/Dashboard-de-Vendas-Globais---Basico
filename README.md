@@ -17,4 +17,4 @@ O foco dessa atividade era utilizar o PowerBI para responder 5 perguntas, sendo 
 
 ## Excel
 Iniciei o projeto realizando uma análise dentro do Excel. Comecei estudando quais as colunas dentro do arquivo, quantas regiões, países, categorias, sub categorias e prioridades tinham dentro do DataSet, também observei que os dados começam na data 01/01/2011 e terminam em 31/12/2014
-<img width="835" height="503" alt="image" src="https://github.com/user-attachments/assets/d5c35570-d823-4b55-ac26-6b72a9d8b69c" />
+<img align="right" width="735" height="403" alt="image" src="https://github.com/user-attachments/assets/d5c35570-d823-4b55-ac26-6b72a9d8b69c"/>
